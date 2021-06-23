@@ -1,0 +1,9 @@
+This project is "Gym Management App". The programming language I've used are Java and MySQL(database).
+It has 7 parts:
+1. Login page where user can login.
+2. Main Menu when you can select different categories.
+3. New Member page to add new members.
+4. Update and Delete Member to delete or fix a mistake.
+5. Member List to search members and show them on a table.
+6. Payment Page to save members payment on a table.
+7. And the last one, a BMI Calculator.
